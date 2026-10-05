@@ -8,3 +8,5 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 1. **Articles & Content (Artykuły i treść):** Evaluating the pace of content expansion and extracting rankings of the most popular articles.
 2. **Community & Editors (Społeczność i edytorzy):** Analyzing new user registrations, tracking editor activity levels, and breaking down edits performed by human contributors vs. automated bots.
 3. **Readership & Pageviews (Czytelnicy i wyświetlenia):** Checking overall pageview counts and breaking them down by user types and the types of devices used to browse Wikipedia.
+
+## 📊 Interactive Dashboard Preview
