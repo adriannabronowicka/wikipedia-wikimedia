@@ -1,4 +1,4 @@
-# Wikimedia Poland Analytics Dashboard (2001–2026)
+# Wikipedia Poland Analytics Dashboard (2001–2026)
 
 ## 📌 Project Overview
 In celebration of the **25th anniversary of Polish Wikipedia**, this project analyzes historical data from the world's largest online encyclopedia. Developed as part of the 3rd edition of the **#BI_NGO** initiative (Business Intelligence for NGOs), it supports **Wikimedia Poland Association** in understanding and sharing insights about Wikipedia's growth.
