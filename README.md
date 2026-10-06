@@ -12,6 +12,6 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 ## 📊 Interactive Dashboard Preview
 
 **Live Report:** You can explore the fully interactive Power BI report directly in your browser:  
-> 👉 **[Open Interactive Power BI Dashboard]([https://twoj-link-od-organizatorki](https://app.powerbi.com/view?r=eyJrIjoiYTBhZjZjMmQtNDMzNC00NWFkLWEyZTktOWU0OTAyZWE4ZTM5IiwidCI6ImQwMzYzN2RmLTdiM2EtNDU2NC04NzBiLTA2MjJhODFhNzY0ZCJ9))**
+> 👉 **[Open Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBhZjZjMmQtNDMzNC00NWFkLWEyZTktOWU0OTAyZWE4ZTM5IiwidCI6ImQwMzYzN2RmLTdiM2EtNDU2NC04NzBiLTA2MjJhODFhNzY0ZCJ9)**
 >
 > *(If the live preview is unavailable or loading, watch the quick feature walkthrough video below)*
