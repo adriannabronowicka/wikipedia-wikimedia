@@ -15,3 +15,9 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 > 👉 **[Open Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBhZjZjMmQtNDMzNC00NWFkLWEyZTktOWU0OTAyZWE4ZTM5IiwidCI6ImQwMzYzN2RmLTdiM2EtNDU2NC04NzBiLTA2MjJhODFhNzY0ZCJ9)**
 >
 > *(If the live preview is unavailable or loading, watch the quick feature walkthrough video below)*
+>
+> The video above demonstrates the interactive features of the dashboard. Detailed descriptions of the charts and pages can be found below.
+
+### 📊 Page 1: Articles & Content (Artykuły i treść)
+
+![Artykuły i treść](dashboard-view/Report_Wikipedia_2_2025.png)
