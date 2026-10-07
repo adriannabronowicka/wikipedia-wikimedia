@@ -20,4 +20,4 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 
 ### 📊 Page 1: Articles & Content (Artykuły i treść)
 
-![Artykuły i treść](dashboard-view/Report_Wikipedia_2_2025.png)
+![Artykuły i treść](dashboard-views/Report_Wikipedia_2_2025.png)
