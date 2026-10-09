@@ -36,3 +36,11 @@ https://github.com/user-attachments/assets/6c9abcb8-ee0c-49fa-b8c2-b79d26f59a64
 ### 📊 Page 4: Readership & Pageviews (Czytelnicy i wyświetlenia)
 
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_4_2025.png)
+
+## 🛠️ Tech Stack & Tools
+
+* **Power BI Desktop** – Data modeling, interactive visualization, and dashboard building.
+* **Python (Pandas)** – Automated data exploration, cleaning, date standardization, and structural transformation of CSV files.
+* **DAX (Data Analysis Expressions)** – Created calculated measures.
+* **Power Query** – Additional data transformation.
+* **GitHub** – Documentation, version control, and project hosting.
