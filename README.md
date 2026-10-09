@@ -37,6 +37,7 @@ https://github.com/user-attachments/assets/6c9abcb8-ee0c-49fa-b8c2-b79d26f59a64
 
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_4_2025.png)
 
+
 ## 🛠️ Tech Stack & Tools
 
 * **Power BI Desktop** – Data modeling, interactive visualization, and dashboard building.
