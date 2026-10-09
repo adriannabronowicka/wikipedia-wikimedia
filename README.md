@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/6c9abcb8-ee0c-49fa-b8c2-b79d26f59a64
 * **Power Query** – Additional data transformation.
 * **GitHub** – Documentation, version control, and project hosting.
 
-##⚙️ Data Pipeline & ETL Process
+## ⚙️ Data Pipeline & ETL Process
 
 Before building the dashboard in Power BI, I developed a Python-based data pipeline to explore, validate, and transform multi-source Wikimedia datasets into a clean, analytics-ready format:
 
