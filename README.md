@@ -44,3 +44,14 @@ https://github.com/user-attachments/assets/6c9abcb8-ee0c-49fa-b8c2-b79d26f59a64
 * **DAX (Data Analysis Expressions)** – Created calculated measures.
 * **Power Query** – Additional data transformation.
 * **GitHub** – Documentation, version control, and project hosting.
+
+##⚙️ Data Pipeline & ETL Process
+
+Before building the dashboard in Power BI, I developed a Python-based data pipeline to explore, validate, and transform multi-source Wikimedia datasets into a clean, analytics-ready format:
+
+1. Data Exploration & Quality Check: Executed Python scripts to perform exploratory data analysis (EDA), detect missing values, and inspect data distributions across historical Wikimedia export files.
+2. Cleaning & Standardization: Used pandas to clean raw source data, filter out unused attributes, and standardize column naming across different files.
+3. Schema & Date Alignment: Formatted and unified date/year fields across all distinct datasets to enable seamless relationship mapping and star-schema integration inside Power BI.
+4. Export: Generated clean, structured CSV files ready for import into the Power BI data model.
+
+The complete Python source scripts are located in the repository directory, ensuring end-to-end reproducibility of the data transformation process.
