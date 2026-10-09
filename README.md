@@ -55,4 +55,4 @@ Before building the dashboard in Power BI, I developed a Python-based data pipel
 3. **Data Reshaping & Date Alignment:** Cleaned date formats and unpivoted a specific wide-format dataset into a long-format table to optimize data modeling and measure creation in Power BI.
 4. **Export:** Exported clean CSV files ready to load into Power BI.
 
-The complete Python source scripts are located in the [scripts](./data-processing) directory.
+The complete Python source scripts are located in the [data-processing](./data-processing) directory.
