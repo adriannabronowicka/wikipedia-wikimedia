@@ -20,6 +20,14 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 > 
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_1.png)
 > 
-### 📊 Page 1: Articles & Content (Artykuły i treść)
+### 📊 Page 2: Articles & Content (Artykuły i treść)
 
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_2_2025.png)
+
+### 📊 Page 3: Community & Editors (Społeczność i edytorzy)
+
+![Artykuły i treść](dashboard-views/Report_Wikipedia_3_2025.png)
+
+### 📊 Page 3: Readership & Pageviews (Czytelnicy i wyświetlenia)
+
+![Artykuły i treść](dashboard-views/Report_Wikipedia_4_2025.png)
