@@ -17,7 +17,8 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 > *(If the live preview is unavailable or loading, watch the quick feature walkthrough video below)*
 >
 > The video above demonstrates the interactive features of the dashboard. Detailed descriptions of the charts and pages can be found below.
-> 
+>
+### 📊 Page 1: Main page
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_1.png)
 > 
 ### 📊 Page 2: Articles & Content (Artykuły i treść)
@@ -28,6 +29,6 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_3_2025.png)
 
-### 📊 Page 3: Readership & Pageviews (Czytelnicy i wyświetlenia)
+### 📊 Page 4: Readership & Pageviews (Czytelnicy i wyświetlenia)
 
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_4_2025.png)
