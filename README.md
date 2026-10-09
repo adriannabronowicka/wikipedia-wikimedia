@@ -58,7 +58,7 @@ Before building the dashboard in Power BI, I developed a Python-based data pipel
 
 The complete Python source scripts are located in the [data-processing](./data-processing) directory.
 
-## 🧮 Data Modeling & DAX Measures
+## 🛠️ Data Modeling & DAX Measures
 
 To drive interactive analytics and dynamic report navigation, I designed a relational Data Model and developed a custom collection of DAX measures:
 
