@@ -56,3 +56,13 @@ Before building the dashboard in Power BI, I developed a Python-based data pipel
 4. **Export:** Exported clean CSV files ready to load into Power BI.
 
 The complete Python source scripts are located in the [data-processing](./data-processing) directory.
+
+## 🧮 Data Modeling & DAX Measures
+
+To drive interactive analytics and dynamic report navigation, I designed a relational Data Model and developed a custom collection of DAX measures:
+
+* **Core Measures:** Dynamic calculations for total pageviews, edits, user registrations, and editor activity.
+* **Traffic Analytics & Rankings:** Measures calculating bot activity share (%) and mobile traffic share (%) for scorecard display, alongside logic to identify the most popular articles.
+* **Dynamic Titles & UX:** Context-aware headers that update dynamically based on slicer selections.
+
+> 💡 **Explore the Code:** The complete list of DAX measures and formulas can be inspected directly inside the Power BI report file (`Raport_Wikipedia.pbix`) in this repository.
