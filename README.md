@@ -50,9 +50,9 @@ https://github.com/user-attachments/assets/6c9abcb8-ee0c-49fa-b8c2-b79d26f59a64
 
 Before building the dashboard in Power BI, I developed a Python-based data pipeline to explore, validate, and transform multi-source Wikimedia datasets into a clean, analytics-ready format:
 
-1. Data Exploration & Quality Check: Executed Python scripts to perform exploratory data analysis (EDA), detect missing values, and inspect data distributions across historical Wikimedia export files.
-2. Cleaning & Standardization: Used pandas to clean raw source data, filter out unused attributes, and standardize column naming across different files.
-3. Schema & Date Alignment: Formatted and unified date/year fields across all distinct datasets to enable seamless relationship mapping and star-schema integration inside Power BI.
-4. Export: Generated clean, structured CSV files ready for import into the Power BI data model.
+1. **Data Inspection & EDA:** Checked data quality, structure, and missing values in raw CSV files.
+2. **Standardization & Translation:** Renamed columns and translated source data/values into Polish for consistent reporting.
+3. **Data Reshaping & Date Alignment:** Cleaned date formats and unpivoted a specific wide-format dataset into a long-format table to optimize data modeling and measure creation in Power BI.
+4. **Export:** Exported clean CSV files ready to load into Power BI.
 
-The complete Python source scripts are located in the repository directory, ensuring end-to-end reproducibility of the data transformation process.
+The complete Python source scripts are located in the [scripts](./data-processing) directory.
