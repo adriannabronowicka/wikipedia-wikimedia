@@ -72,7 +72,6 @@ To drive interactive analytics and dynamic report navigation, I designed a relat
 Below is the complete overview of the project organization and the files included:
 
 ```text
-
 ├── dashboard-pdf-files/                  # PDF previews of dashboard views for quick access
 ├── dashboard-views/                      # Screenshots of dashboard
 ├── data-processing/                      # Python ETL scripts
@@ -82,3 +81,4 @@ Below is the complete overview of the project organization and the files include
 │   └── read_data/                        
 ├── README.md                             # Project documentation
 └── Raport_Wikipedia.pbix                 # Complete interactive Power BI report & model
+```
