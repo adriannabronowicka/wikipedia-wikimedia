@@ -82,3 +82,7 @@ Below is the complete overview of the project organization and the files include
 ├── README.md                             # Project documentation
 └── Raport_Wikipedia.pbix                 # Complete interactive Power BI report & model
 ```
+
+## 📌 Author
+**Adrianna Bronowicka**  
+Python, Power BI & Data Analysis Portfolio Project
