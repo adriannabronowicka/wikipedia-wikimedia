@@ -20,7 +20,10 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 > The video above demonstrates the interactive features of the dashboard. Detailed descriptions of the charts and pages can be found below.
 >
 
-https://github.com/user-attachments/assets/6c9abcb8-ee0c-49fa-b8c2-b79d26f59a64
+
+
+https://github.com/user-attachments/assets/0f14ca7b-548d-4547-a6c0-1481fe4371b5
+
 
 
 ### 📊 Page 1: Home page
