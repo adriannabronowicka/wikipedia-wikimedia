@@ -20,11 +20,7 @@ This project delivers an end-to-end analysis of Polish Wikipedia's activity over
 > The video above demonstrates the interactive features of the dashboard. Detailed descriptions of the charts and pages can be found below.
 >
 
-
-
 https://github.com/user-attachments/assets/0f14ca7b-548d-4547-a6c0-1481fe4371b5
-
-
 
 ### 📊 Page 1: Home page
 ![Artykuły i treść](dashboard-views/Report_Wikipedia_1.png)
@@ -70,3 +66,19 @@ To drive interactive analytics and dynamic report navigation, I designed a relat
 * **Dynamic Titles & UX:** Context-aware headers that update dynamically based on slicer selections.
 
 > 💡 **Explore the Code:** The complete list of DAX measures and formulas can be inspected directly inside the Power BI report file (`Raport_Wikipedia.pbix`) in this repository.
+
+## 📂 Repository Structure
+
+Below is the complete overview of the project organization and the files included:
+
+```text
+
+├── dashboard-pdf-files/                  # PDF previews of dashboard views for quick access
+├── dashboard-views/                      # Screenshots of dashboard
+├── data-processing/                      # Python ETL scripts
+│   ├── clean_data/                       
+│   ├── csv_files/                        
+│   ├── csv_files_clean/                  
+│   └── read_data/                        
+├── README.md                             # Project documentation
+└── Raport_Wikipedia.pbix                 # Complete interactive Power BI report & model
